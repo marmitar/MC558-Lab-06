@@ -1,6 +1,7 @@
-# MC558 - Tarefa 6
+# Análise de Algoritmos II (MC558) - Tarefa 6
 
-[Enunciado em PDF](enunc.pdf).
+- [Enunciado](./enunc.pdf)
+- [Solução](./t6.c)
 
 ## Problema
 
